@@ -1,4 +1,9 @@
 {
+  "videoCapa": {
+    "titulo": "ULTIMATE TOUGE DRIFT SUPRA",
+    "url": "https://www.youtube.com/watch?v=KyS2Wckan90",
+    "descricao": "Une Supra, une route de montagne et les couleurs dautomne : un rêve de gosse !Jai tellement pris mon pied à faire cette vidéo que ça sexplique pas vraiment, en tous cas jespère qu'elle vous apportera autant de kiff quon en à eu lors du tournage!Alors, on fait quoi pour la prochaine?"
+  },
   "categorias": [
     {
       "titulo": "Drift",
@@ -40,7 +45,7 @@
         {
           "titulo": "Serhat Durmus",
           "url": "https://www.youtube.com/watch?v=o2aQ3k-oArc"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +71,7 @@
         {
           "titulo": "This is Rally 11 | The best scenes of Rallying",
           "url": "https://www.youtube.com/watch?v=N2VPgcPfSug"
-        }, 
+        },
         {
           "titulo": "Best Moments of Rally 2020",
           "url": "https://www.youtube.com/watch?v=wn8dMGfICG8"
