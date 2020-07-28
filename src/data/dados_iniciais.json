@@ -1,153 +1,153 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Drift",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "ULTIMATE TOUGE DRIFT SUPRA",
+          "url": "https://www.youtube.com/watch?v=KyS2Wckan90"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Stance Wars Seattle 2019",
+          "url": "https://www.youtube.com/watch?v=edQDttiDM78"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Ken Block Drifts London",
+          "url": "https://www.youtube.com/watch?v=PrqYohBV58o"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Wekfest Japan 2019",
+          "url": "https://www.youtube.com/watch?v=VfYxEKoEkdI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Pikes Peak Featuring the Hoonicorn V2",
+          "url": "https://www.youtube.com/watch?v=Hg6L_7qLIEQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Teriyaki Boyz ",
+          "url": "https://www.youtube.com/watch?v=C_rsdqKA6ok"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Return To Driftenberg",
+          "url": "https://www.youtube.com/watch?v=Q1Fa50-F77k"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Serhat Durmus",
+          "url": "https://www.youtube.com/watch?v=o2aQ3k-oArc"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Rally",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "The best of Rally 2017",
+          "url": "https://www.youtube.com/watch?v=wlf9ag7IHNM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "This is Rally 4 | The best scenes of Rallying",
+          "url": "https://www.youtube.com/watch?v=yqQwH_Qj1x0"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "WRC Rally Finland 2019",
+          "url": "https://www.youtube.com/watch?v=vP9QpcqzSns"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "This is Rally 11 | The best scenes of Rallying",
+          "url": "https://www.youtube.com/watch?v=N2VPgcPfSug"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Best Moments of Rally 2020",
+          "url": "https://www.youtube.com/watch?v=wn8dMGfICG8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "MotoSport",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "ISLE of MAN",
+          "url": "https://www.youtube.com/watch?v=jZ17-83cTrw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Kawasaki H2R - World Record 400 km/h in 26 sec",
+          "url": "https://www.youtube.com/watch?v=6_n7ru1e-rg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Ninja H2 desafia concorrentes na arrancada",
+          "url": "https://www.youtube.com/watch?v=WL8RHYDchZc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Best Battle ROSSI Vs MARQUEZ ",
+          "url": "https://www.youtube.com/watch?v=CLpb6k6afIM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Arrancadas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "1ª Etapa Paranaense ",
+          "url": "https://www.youtube.com/watch?v=O_9827mW0IU"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "GOL DE 1000CV VS AUDI DE 800CV",
+          "url": "https://www.youtube.com/watch?v=esaBAAy-goE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "PORSCHE VS GOLF GTI STG4",
+          "url": "https://www.youtube.com/watch?v=ebX5OFFFDkU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Old vs New Muscle Cars",
+          "url": "https://www.youtube.com/watch?v=XGTglMCMnb0"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Exibição",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "CARROS TUNADOS",
+          "url": "https://www.youtube.com/watch?v=1UdRzJoZOPw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "EXPOSIÇÃO DE CARROS ANTIGOS",
+          "url": "https://www.youtube.com/watch?v=pdGAdISwKZk"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Encontro de carros antigos",
+          "url": "https://www.youtube.com/watch?v=hFdseLbbsyg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "1968 Dodge Charger at the SEMA",
+          "url": "https://www.youtube.com/watch?v=nxr-qBLmPcs"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "ENCONTRO DOS CARROS DO VELOZES & FURIOSOS",
+          "url": "https://www.youtube.com/watch?v=qYLG1kd9FKk"
         }
       ]
     },
