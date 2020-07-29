@@ -15,7 +15,7 @@ function Error404() {
                 Voltar para a Home
             </Link>
             <>
-            <Script src='../assets/FlappyBird/flappy.js' async={false} />
+            <Script src='../assets/FlappyBird/flappy.js' />
             </>
         </PageDefault> 
         

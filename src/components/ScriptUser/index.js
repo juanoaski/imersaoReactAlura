@@ -1,11 +1,11 @@
 import { useEffect } from 'react'
 
-const useScript = (url, async) => {
+const useScript = (url) => {
   useEffect(() => {
     const script = document.createElement('script')
 
     script.src = url
-    script.async = (typeof async === 'undefined' ? true : async )
+    
 
     document.body.appendChild(script)
 
@@ -15,9 +15,9 @@ const useScript = (url, async) => {
   }, [url])
 }
 
-export default function Script({ src, async=true}) {
+export default function Script({ src}) {
 
-  useScript(src, async)
+  useScript(src)
 
   return null
 }
