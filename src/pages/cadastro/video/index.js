@@ -1,6 +1,6 @@
-import React from 'react';
+import React from './node_modules/react';
 import PageDefault from '../../../components/PageDefault';
-import { Link } from 'react-router-dom';
+import { Link } from './node_modules/react-router-dom';
 
 function CadastroVideo() {
     return (

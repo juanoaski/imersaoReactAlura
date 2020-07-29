@@ -3,10 +3,7 @@ import { useEffect } from 'react'
 const useScript = (url) => {
   useEffect(() => {
     const script = document.createElement('script')
-
     script.src = url
-    
-
     document.body.appendChild(script)
 
     return () => {
@@ -16,8 +13,6 @@ const useScript = (url) => {
 }
 
 export default function Script({ src}) {
-
   useScript(src)
-
   return null
 }
